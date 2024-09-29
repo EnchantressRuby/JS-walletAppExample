@@ -1,1 +1,1 @@
-# JS-walletApp-Example
+# JS-walletApp-Example1
